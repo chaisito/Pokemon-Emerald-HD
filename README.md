@@ -96,7 +96,7 @@ Pokémon Emerald HD is an independent development project
 
 If you enjoy the project and want to support its development, you can contribute through:  
 [Ko-fi](https://ko-fi.com/chaisito/goal?g=0)  
-[GitHub Sponsors](#)  
+[GitHub Sponsors](https://github.com/sponsors/chaisito)  
 
 Every contribution helps support development, testing, and future improvements
 
